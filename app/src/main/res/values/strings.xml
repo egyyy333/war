@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">حرب الخنادق</string>
+    <string name="stage">المرحلة</string>
+    <string name="victory">نصر ساحق!</string>
+    <string name="defeat">هزيمة نكراء</string>
+    <string name="next_stage">المرحلة التالية</string>
+    <string name="try_again">إعادة المحاولة</string>
+    <string name="units_deployed">الوحدات المستدعاة:</string>
+    <string name="units_survived">الوحدات التي نجت:</string>
+    <string name="play">ابدأ اللعب</string>
+    <string name="exit">خروج</string>
+    <string name="tutorial_title">طريقة اللعب</string>
+    <string name="tutorial_text">1. اختر وحدة من شريط الوحدات بالأسفل لتجنيدها.\n2. ستدخل الوحدة الخندق تلقائيًا.\n3. اضغط على أي مجموعة في الخندق لتأمرها بالهجوم نحو العدو.\n4. إذا امتلأ الخندق بأكثر من 3 مجموعات، ستخرج المجموعة الأقدم تلقائيًا للهجوم.\n5. دمر مقر العدو في أقصى اليمين لتفوز بالمعركة!</string>
+</resources>

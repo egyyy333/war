@@ -1,0 +1,6 @@
+{
+  "name": "حرب الخنادق",
+  "description": "لعبة إستراتيجية عسكرية ثنائية الأبعاد بدون إنترنت تدور حول حرب الخنادق والدفاع عن المقر وتدمير مقر العدو.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
