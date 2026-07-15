@@ -24,5 +24,8 @@ jobs:
     - name: Set up Gradle
       uses: gradle/actions/setup-gradle@v3
 
+    - name: Restore Debug Keystore
+      run: base64 -d debug.keystore.base64 > debug.keystore || base64 --decode debug.keystore.base64 > debug.keystore
+
     - name: Build with Gradle
       run: gradle :app:assembleDebug --no-daemon
